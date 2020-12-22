@@ -102,7 +102,7 @@ type: "about"
 
 - 硬件设计：熟悉 51 单片机设计，有 CPLD 设计经验；有 Altium Designer、 Solidworks 设计经验；
 
-- 硬件移植平台： FPGA Zync系列、Nvidia 嵌入式GPU（TX2\Xavier等）、ARM (A72/A530)及支持AI引擎的设备如HORIZON、CAMBRICON等
+- 硬件移植平台： FPGA Zynq系列、Nvidia 嵌入式GPU（TX2\Xavier等）、ARM (A72/A530)及支持AI引擎的设备如HORIZON、CAMBRICON等
 
 ## 兴趣爱好
 
